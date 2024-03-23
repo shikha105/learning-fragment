@@ -1,0 +1,12 @@
+.kg-span {
+  font-weight: 500;
+  color: orange;
+}
+
+.button {
+  float: right;
+}
+
+.button:active {
+  background-color: yellow;
+}
